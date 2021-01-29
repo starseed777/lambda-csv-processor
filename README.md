@@ -1,0 +1,1 @@
+This AWS lambda function will take csv files from a given URL (passed in as secret in this case) and will parse the data and generate the list format to be printed into the cloudwatch logs 
